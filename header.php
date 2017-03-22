@@ -11,7 +11,6 @@
 ?><!DOCTYPE html>
 
 <!-- TESTING THE REPO UPDATES -->
-
 <!--[if IE7]>
 <html class="ie ie7"<?php language_attributes(); ?>>
 <!--[endif]-->
